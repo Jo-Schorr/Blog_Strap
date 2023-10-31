@@ -1,0 +1,7 @@
+{
+
+    "lint-staged": {
+        // …
+        "*.html.erb": "bundle exec erb-format --write"
+      }
+}
